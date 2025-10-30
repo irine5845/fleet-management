@@ -1,0 +1,15 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.table {
+  background-color: #fff;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
